@@ -59,8 +59,8 @@ const AddTask = ({ onAdd }) => {
       </div>
       
       <button type="submit" className="btn btn-block success">
-        Adicionar Task com IA
-      </button>
+        Adicionar Task com ALB
+     </button>
       
       <Modal
         isOpen={showModal}
